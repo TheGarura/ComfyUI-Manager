@@ -1,5 +1,13 @@
 {
     "custom_nodes": [
+		{
+			"name": "comfyui-korean-prompt-enhancer",
+			"url": "https://github.com/garura/comfyui-korean-prompt-enhancer",
+			"description": "Korean Prompt Enhancer는 다양한 LLM(Gemini, OpenAI ChatGPT, Anthropic Claude)을 활용해 한글 입력에서 창의적이고 상세한 이미지 프롬프트를 생성하는 ComfyUI 커스텀 노드입니다. 초기 아이디어와 30가지 이상의 세부 옵션을 조합해, 단순 번역을 넘는 묘사형 프롬프트를 자동으로 만들어줍니다. 자동 스타일 추천, 복수 모델 지원, 복잡한 장면 구성, 자동 네거티브 프롬프트 생성 등이 주요 특징입니다.",
+			"author": "garura",
+			"nickname": "garura"
+		}
+		,
         {
             "author": "Dr.Lt.Data",
             "title": "ComfyUI-Manager",
